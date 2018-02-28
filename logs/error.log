@@ -1,0 +1,46 @@
+2017/11/02 19:06:52 [emerg] 3773#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 19:06:52 [emerg] 3773#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 19:06:52 [emerg] 3773#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 19:06:52 [emerg] 3773#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 19:06:52 [emerg] 3773#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 19:06:52 [emerg] 3773#0: still could not bind()
+2017/11/02 20:41:35 [emerg] 3875#0: unknown directive "rtmp_controll" in /usr/local/nginx/conf/nginx.conf:65
+2017/11/02 20:42:21 [error] 3881#0: *1 open() "/usr/local/nginx/html/control" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /control HTTP/1.1", host: "192.168.0.3"
+2017/11/02 20:47:02 [error] 3881#0: *7 open() "/usr/local/nginx/html/stream" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stream HTTP/1.1", host: "192.168.0.3"
+2017/11/02 20:47:15 [emerg] 3899#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:69
+2017/11/02 20:49:08 [emerg] 3903#0: unknown directive "ffplay" in /usr/local/nginx/conf/nginx.conf:68
+2017/11/02 20:51:42 [error] 3911#0: *1 open() "/usr/local/nginx/html/control" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /control HTTP/1.1", host: "192.168.0.3"
+2017/11/02 20:53:13 [notice] 3915#0: signal process started
+2017/11/02 20:54:47 [error] 3921#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3", referrer: "http://192.168.0.3/stat"
+2017/11/02 20:54:51 [error] 3921#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/11/02 20:59:52 [emerg] 3974#0: still could not bind()
+2017/11/02 21:00:06 [notice] 3976#0: signal process started
+2017/11/02 21:01:08 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:09 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:10 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:10 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:10 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:10 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:11 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:11 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:11 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:11 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:11 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:11 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:12 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:01:15 [error] 3999#0: *1 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3", referrer: "http://192.168.0.3/stat"
+2017/11/02 21:01:21 [error] 3999#0: *1 open() "/usr/local/nginx/html/control" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /control HTTP/1.1", host: "192.168.0.3"
+2017/11/02 21:08:36 [error] 3999#0: *6 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.0.100, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.3", referrer: "http://192.168.0.3/"
+2017/11/02 21:08:56 [error] 3999#0: *6 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.100, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3", referrer: "http://192.168.0.3/stats.xsl"
+2017/11/02 21:12:17 [notice] 4067#0: signal process started
+2017/11/03 00:02:10 [error] 4071#0: *16 open() "/usr/build/nginx-rtmp-module/stat.xsl/stat.xsl" failed (2: No such file or directory), client: 192.168.0.103, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "192.168.0.3", referrer: "http://192.168.0.3/stat"
